@@ -1,4 +1,3 @@
-# check ppdb2 cdr, find hacker, then disable outbound flag in ppdb1 product database
 # Import smtplib for the actual sending function
 import smtplib
 from email.mime.text import MIMEText
